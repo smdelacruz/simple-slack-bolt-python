@@ -1,8 +1,8 @@
 import os
 from slack_bolt import App
 
-SLACK_BOT_TOKEN = 'xoxb-1511742485041-1499135428242-DvfL65eDNLQF0fcNiuM2wHtv'
-SLACK_SIGNING_SECRET = 'adf9174d1ca52ccfcc8ef388ff9fe759'
+SLACK_BOT_TOKEN = '[slack-bot-token-here]'
+SLACK_SIGNING_SECRET = '[slack-signing-secret-here]'
 
 # Initializes your app with your bot token and signing secret
 app = App(
